@@ -107,6 +107,10 @@ __EECE490L Introduction to MATLAB (Semester Project)__
 cf) Term Project – > Proposed projects/ Semester Project -> Common projects
 
 #SKILLS
+__English Proficiency__
+- IELTS Academic Overall 7 
+- Toeic over 900
+
 __Micro-controller & Sensing hardware design__
 - Advanced: Arduino 
 - Intermediate: Simple circuit design, Digital circuit simulation
