@@ -1,7 +1,8 @@
 #Seungjae Oh 
 
 ####1406-1001 Unam-Firstvill, Gyohadong, Paju, Kyunggi, Korea
-####seungjae.oh7@gmail.com
+####E-mail: seungjae.oh7@gmail.com
+####Skype: seungjae329
 
 ***
 #EDUCATION
